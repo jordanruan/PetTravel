@@ -20,4 +20,5 @@ HTML & CSS
 
 ## Desktop 💻
 
-![enter image description here](https://github.com/jordanruan/sitepettravel/blob/master/img/desktop.gif?raw=true)
+![enter image description here](https://github.com/jordanruan/PetTravel/blob/master/assets/desktop.gif?raw=true)
+
