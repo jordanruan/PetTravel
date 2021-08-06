@@ -12,10 +12,10 @@ HTML & CSS
 - ✔️ Media queries
   Todo o site é responsivo para smartphones, tablets e desktops.s.
 
-## Mobile
+## Site Mobile
 
 ![enter image description here](https://github.com/jordanruan/sitepettravel/blob/master/img/mobile.gif?raw=true)
 
-## Desktop
+## Site Desktop
 
 ![enter image description here](https://github.com/jordanruan/sitepettravel/blob/master/img/desktop.gif?raw=true)
