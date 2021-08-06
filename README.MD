@@ -1,4 +1,9 @@
-# Pet Travel
+# Pet Travel 🐶
+
+Projeto desenvolvido com o intuito de aprimorar minhas habilidades com
+HTML & CSS
+
+# Conceitos Aprendidos 📝
 
 ## Mobile
 
