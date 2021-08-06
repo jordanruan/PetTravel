@@ -11,7 +11,7 @@ HTML & CSS
 - ✔️ A seção de contato do site usa um mapa para mostrar o endereço, para isso usamos integração e documentação do google maps.
 - ✔️ Media queries
 
-Todo o site é responsivo para smartphones, tablets e desktops.
+#### Todo o site é responsivo para smartphones, tablets e desktops.
 
 
 ## Mobile 📱
