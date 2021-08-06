@@ -31,7 +31,7 @@ button {
 
 header {
     height: calc(100vh - 10px);
-    background: no-repeat center/cover url('/img/img1.jpg');
+    background: no-repeat center/cover url('./assets/img1.jpg');
 }
 
 header nav {
