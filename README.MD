@@ -12,7 +12,7 @@ HTML & CSS
 - ✔️ Media queries
 
 - Todo o site é responsivo para smartphones, tablets e desktops.
-- 💻📱
+💻📱
 
 ## Mobile
 
