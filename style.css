@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 * {
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 
 body {
@@ -291,6 +292,7 @@ header nav ul li {
 @media (max-width: 767px) {
     body {
         height: calc(100vh- 55px);
+        overflow-x: hidden;
     }
     header nav ul {
         position: fixed;
