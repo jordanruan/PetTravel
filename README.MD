@@ -5,11 +5,11 @@ HTML & CSS
 
 # Conceitos Aprendidos 📝
 
- ✔ Flexbox concepts
+- Flexbox concepts
   Básico do flexbox, como: flex-direction, justify-content e align-items
- ✔ Como integrar com o google maps
- ✔ A seção de contato do site usa um mapa para mostrar o endereço, para isso usei integração e documentação do google maps.
- ✔ Media queries
+- Como integrar com o google maps
+- A seção de contato do site usa um mapa para mostrar o endereço, para isso usei integração e documentação do google maps.
+- Media queries
 
 #### Todo o site é responsivo para smartphones, tablets e desktops.
 
