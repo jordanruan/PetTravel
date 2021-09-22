@@ -28,6 +28,7 @@ button {
     background-color: #1d61dd;
     color: white;
     font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
 }
 
 header {
